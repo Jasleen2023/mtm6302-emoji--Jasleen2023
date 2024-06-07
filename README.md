@@ -21,4 +21,5 @@ command 8: git commit -m "Completes the assignment"
 command 9: git push origin main
 
 check your github now.(It should have all the files).
+![image](https://github.com/Jasleen2023/mtm6302-emoji--Jasleen2023/assets/145064057/8a18ceed-bdc6-4075-946a-14462956861b)
 
