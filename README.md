@@ -7,14 +7,19 @@ command 5 use "ls" command to check all the files.(you should get readme.md, ind
 command 6: open vscode by command "code ."# mtm6302-emoji--Jasleen2023
 In your vscode open index.html and write the HTML code.
 ![index html screenshot](https://github.com/Jasleen2023/mtm6302-emoji--Jasleen2023/assets/145064057/25228314-07f9-45a0-b186-b8731e511af8)
+
+
 Let us now code style.css
 ![style css screenshot](https://github.com/Jasleen2023/mtm6302-emoji--Jasleen2023/assets/145064057/31e4da64-c239-4d7b-a31f-6aaf7c971e2f)
+
 
 now we will be doing script.js file
 ![script js screenshot](https://github.com/Jasleen2023/mtm6302-emoji--Jasleen2023/assets/145064057/9faa4b6f-4cd7-4ab3-a4e7-375e5f025825)
 
+
 Output:
 ![output](https://github.com/Jasleen2023/mtm6302-emoji--Jasleen2023/assets/145064057/6ab1f611-7c56-4214-8396-33e85ed135d5)
+
 
 command 7 : git add .
 command 8: git commit -m "Completes the assignment"
